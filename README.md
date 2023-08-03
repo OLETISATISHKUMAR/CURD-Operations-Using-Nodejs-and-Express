@@ -1,6 +1,6 @@
 # CURD-Operations-Using-Nodejs-and-Express
 
--Run this code.
+Run this Code
 --> first install node modules
     npm install
 
